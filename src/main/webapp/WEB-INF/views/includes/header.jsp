@@ -51,7 +51,7 @@
 						class="icon-bar"></span> <span class="icon-bar"></span> <span
 						class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="index.html">Hello</a>
+				<a class="navbar-brand" href="index.html">Hello ! Deep Sea</a>
 			</div>
 			<!-- /.navbar-header -->
 

@@ -9,7 +9,7 @@
 
 <div class="row">
 	<div class="col-lg-12">
-		<h1 class="page-header">게시판</h1>
+		<h1 class="page-header">Free Board</h1>
 	</div>
 	<!-- /.col-lg-12 -->
 </div>
@@ -17,7 +17,7 @@
 <div class="row">
 	<div class="col-lg-12">
 		<div class="panel panel-default">
-			<div class="panel-heading">게시판 리스트</div>
+			<div class="panel-heading">▼ L I S T ▼</div>
 			
 			<button id='regBtn' type="button" class="btn btn-xs pull-right">새글등록</button></div>
 			<!-- /.panel-heading -->
@@ -65,7 +65,7 @@
 							<div class="modal-footer">
 								<button type="button" class="btn btn-default"
 									data-dismiss="modal">닫기</button>
-								<button type="button" class="btn btn-primary">저장(적용)</button>
+								<button type="button" class="btn btn-primary">저장</button>
 							</div>
 						</div>
 						<!-- /.modal-content -->
